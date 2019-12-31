@@ -1,2 +1,2 @@
 # WhatToCook
-ai to track fridge storage and to provide recipe
+AI to provide recipe based on what's in fridge

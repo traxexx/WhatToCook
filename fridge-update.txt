@@ -1,0 +1,7 @@
+ginger 3000
+garlic 3000
+bay_leaf 3000
+cinnamon_stick 3000
+spicy_sauce 3000
+ice_sugar 3000
+green_onion 5

@@ -1,0 +1,98 @@
+#番茄炒蛋 15
+tomato 2 egg 3
+
+#番茄火锅 40
+tomato 3 onion 1 mushroom 4
+
+#蒸蛋 20
+egg 2 green_onion 1
+
+#皮蛋豆腐 10
+tofu 1 bad_egg 1
+
+#麻婆豆腐 30
+tofu 1 spicy_sauce 1
+
+#铁板海鲜 20
+egg_tofu 1 shrimp 6 green_onion 2
+
+#木须肉 20
+black_fungus 20 egg 4 cucumber 1 pork_slice 1
+
+#青椒炒肉 20
+green_pepper 2 pork_slice 1
+
+#黄焖鸡 120
+chicken_dissembled 1 potato 1 ice_sugar 1
+
+#啤酒火锅鸡 120
+chicken_dissembled 1 green_pepper 1
+
+#小煎鸡 30
+chicken_cube 1 garlic 1
+
+#宫保鸡丁 25
+chicken_cube 1 peanut 1
+
+#红烧肉 120
+pork_stew 1 egg 1 ice_sugar 1
+
+#排骨汤 180
+pork_rib 1 mushroom 10 ginger 1 garlic 1
+
+#羊肉汤 180
+lamb_stew 1 ginger 1 garlic 1
+
+#煎羊排 20
+marinated_lamb_rack 1
+
+#烤羊肉 45
+marinated_lamb_stew 1 potato 1 onion 1
+
+#牛肉烧土豆 150
+beef_stew 1 potato 1 onion 1 bay_leaf 1 cinnamon_stick 1
+
+#川味萝卜烧牛肉 150
+beef_stew 1 dakon_raddish 1 spicy_sauce 1 bay_leaf 1 cinnamon_stick 1
+
+#水煮牛 20
+beef_slice 1 bean_sprout 1 egg 1
+
+#葱爆牛 30
+beef_slice 1 egg 1 green_onion 3 onion 1
+
+#花菜炒香肠 20
+sausage 1 cauliflower 1
+
+#小炒茄子 10
+eggplant 1 garlic 1
+
+#炒花菜 7
+cauliflower 1
+
+#清炒豆芽 5
+bean_sprout 1
+
+#酸辣白菜 10
+napa_cabbage 1
+
+#酸辣土豆丝 20
+potato 1 garlic 1
+
+#蚝油生菜 5
+lettuce 1
+
+#香菇菜心 10
+mushroom 4 bok_choy 4
+
+#edamame 3
+edamame 1
+
+#拍黄瓜 5
+cucumber 1
+
+#榨菜肉丝汤面 20
+noodle 1 zhacai 1 pork_slice 1
+
+#鸡蛋凉面 30
+noodle 1 egg 3 green_onion 1 garlic 1 cucumber 1 bean_sprout 1 peanut_butter 1
